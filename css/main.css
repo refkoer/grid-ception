@@ -10,17 +10,18 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 }
 
-.img-flex{
+.img-flex {
   display: block;
   width: 100%;
 }
